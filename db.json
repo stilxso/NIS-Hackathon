@@ -1,0 +1,960 @@
+{
+  "users": [
+    {
+      "email": "Email@gmail.com",
+      "password": "$2a$10$esGmt0rCp7ziz5qH7VS1ke2kqStHQ0GyVLkVMccvyIAUgXdzFYYcW",
+      "username": "myName",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 1
+    },
+    {
+      "email": "myemaill@email.com",
+      "password": "$2a$10$CNL5cN3kBGD9xXX3zBVIk..JYBF5MEsbovtKL9QKQbwIgWCzapiBq",
+      "username": "name",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 2
+    },
+    {
+      "email": "a@email.com",
+      "password": "$2a$10$F0exK4y439WcKV8egFeRoO62I2Ef0zlVUGneOOALE1TTQRhY.38wO",
+      "username": "ns",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "NewYork",
+      "id": 3
+    },
+    {
+      "email": "saduy@gmail.com",
+      "password": "$2a$10$2UEX6Ays/.w56FpS2mhqKOuzrqP0vm6dJFK5nuFz5Bx2PzESPlrum",
+      "username": "fgf",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 4
+    },
+    {
+      "email": "auf@gmail.com",
+      "password": "$2a$10$nSeE4mmNEQfLdoRL93ztSOWmpxIrGAcsChR1ab6skhioftudUa2Su",
+      "username": "auf",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 5
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$eRWpnRDNCdaEtFQoK.qUoeTMlRxhzUUEgsr9euad6GdHO2QdTiNwC",
+      "username": "nma",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 6
+    },
+    {
+      "email": "AUF@gmail.com",
+      "password": "$2a$10$naD7cWg09.GH0MXWrl1ES.UQ8NoDwefJqx63l13O/3L7TF.J7aHua",
+      "username": "auf",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 7
+    },
+    {
+      "email": "aif@gmail.com",
+      "password": "$2a$10$v/LEtYLzXVj1EMTCYkZ80eckckBIj3KSx/vjuIdlxmrfNw.w9p5Aq",
+      "username": "aif",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 8
+    },
+    {
+      "email": "re@gmail.com",
+      "password": "$2a$10$UnEHcgicCkJOgSYDhzXr8ez2I1EUJVryxJ6y6T2WPs0AlUMVht.Vq",
+      "username": "re@gmail.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 9
+    },
+    {
+      "email": "11111@mai.ru",
+      "password": "$2a$10$4EGgPY0HjlYAAnbsdAYEuu/Xg5LFuPkrUl8UCjpvhG4GsXQJgMyY2",
+      "username": "1111",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "NewYork",
+      "id": 10
+    },
+    {
+      "email": "1111@mail.ru",
+      "password": "$2a$10$MbyUsMzMfAziWVKapepeV.iucSji5kfFMUdXL6uZirhFiKtUIAtGO",
+      "username": "1111",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "NewYork",
+      "id": 11
+    },
+    {
+      "email": "h@email.com",
+      "password": "$2a$10$IEYQX19p/ldp..MCpEZHlOhMTifL4ztEIV6KwoFy9splGfFZPOY0a",
+      "username": "dkakwofoka",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTp2SmRke8LbnDs4hmZqqavC64YYwVkQK-A&s",
+      "city": "California",
+      "id": 12
+    }
+  ],
+  "california": [
+    {
+      "id": 1,
+      "title": "RAILROAD incident near Sylmar",
+      "lat": "34.3117",
+      "long": "-118.4738",
+      "Agency": "Union Pacific Railroad (UPRR)",
+      "descrip": "Per the reporting party, Metrolink contacted Union Pacific Railroad (UPRR) because this incident occurred on their tracks, but it was a UPRR train that was involved in the incident. A vehicle was repeatedly driving into the stopped train. It was reversing and driving into the train over and over again. The freight train is number IBRLCX of the 13th, and the locomotive number is UP5929. The direction of travel was unknown. The incident occurred on a main line track. There was no railroad crossing involved. The vehicle was a white Ford pick-up truck. There were no injuries reported, and the subject fled the scene when the police arrived. There was no derailment or release of Hazmat. The main line is closed, and it is unknown when it will be open again. The tracks must be inspected. The incident is under investigation. It is suspected that the individual was stealing something from the train.",
+      "address": "13287 Ralston Avenue"
+    },
+    {
+      "id": 2,
+      "title": "PETROLEUM incident near Los Angeles",
+      "lat": "34.24287",
+      "long": "-118.31693",
+      "Agency": "CHP / LA",
+      "descrip": "Per reporting party, a traffic collision caused 40 gallons of gasoline to be released onto the dirt shoulder. Release has been stopped and contained. No further hazards or impacts reported due to this incident.",
+      "address": "Interstate 210 Los Angeles"
+    },
+    {
+      "id": 3,
+      "title": "PETROLEUM incident near Glendale",
+      "lat": "34.2318",
+      "long": "-118.26618",
+      "Agency": "CA Highway Patrol",
+      "descrip": "Reporting party states a big rig crashed down an embankment spilling 120 gallons of diesel from the saddle tank onto the soil. No waterways were impacted. Fuel is contained on the soil shoulder and Cal Trans is enroute to the scene.",
+      "address": "Honolulu Avenue & Lowell Avenue Crescenta Highlands"
+    },
+    {
+      "id": 4,
+      "title": "UNSPECIFIED incident near North Hollywood",
+      "lat": "34.20089",
+      "long": "-118.42109",
+      "Agency": "NRC",
+      "descrip": "Per the NRC report: Caller is reporting a release of unknown materials from a car wash. Caller states that the water and chemicals usually goes into a containment system but it appears that the system is clogged. The material is entering the street and going into a storm drain. Remedial Actions: Nothing at this time.",
+      "address": "13220 Sherman Way"
+    },
+    {
+      "id": 5,
+      "title": "RAILROAD incident near Burbank",
+      "lat": "34.20121",
+      "long": "-118.3878",
+      "Agency": "Amtrak",
+      "descrip": "Per reporting party: A Metro Link passenger train ( ID: 769 / Lead engine: 2110 ) from the Ventura Subdivision struck a trespasser at mile post 458.55 resulting in one (1) fatality. The six (6) car train is on a main line and will be delayed for an estimated two (2) hours. All passenger's will remain on the train at this time. This collision did not occur at a grade crossing.",
+      "address": "Lankershim Boulevard & Sherman Way North Hollywood"
+    },
+    {
+      "id": 6,
+      "title": "VAPOR incident near Sherman Oaks",
+      "lat": "34.16553",
+      "long": "-118.44403",
+      "Agency": "SoCal Gas",
+      "descrip": "Caller states that a third party contractor struck a 3/4 steel service line resulting in the release of Natural Gas to atmosphere. Local Fire Dept evacuated 6 persons from two residents as a precautionary measure. Crews are in route to control the release and repair the damaged line.",
+      "address": "14254 McCormick Street"
+    },
+    {
+      "id": 7,
+      "title": "PETROLEUM incident near Los Angeles",
+      "lat": "33.91623",
+      "long": "-118.28227",
+      "Agency": "Cura Emergency Services",
+      "descrip": "Per the reporting party: A customer was fueling their vehicle when it began to leak due to a puncture in the gas tank. Three gallons of gasoline released onto the concrete in the parking lot. This release has been stopped and contained and no waterways were impacted.",
+      "address": "450 West El Segundo Boulevard"
+    },
+    {
+      "id": 8,
+      "title": "PETROLEUM incident near Hawthorne",
+      "lat": "33.89837",
+      "long": "-118.36887",
+      "Agency": "3E - IT Service Management Company",
+      "descrip": "***Historical Report*** A delivery truck was vandalized while parked at a retail store, with personnel reporting that the fuel tank was drilled into, causing an estimated 3 gallons of gasoline to spill onto the asphalt. Some of the fuel also entered a nearby storm drain. A contractor responded and managed to recover all of the spilled fuel from both the affected surfaces and the drain. ***Historical Report***",
+      "address": "14603 Ocean Gate Avenue"
+    },
+    {
+      "id": 9,
+      "title": "PETROLEUM incident near Playa Del Rey",
+      "lat": "33.95505",
+      "long": "-118.44864",
+      "Agency": "NATIONAL RESPONSE CENTER",
+      "descrip": "Per the NRC report, THE CALLER WAS NOTIFIED ABOUT A VESSEL FOUND ON THE BEACH. THERE IS NO DISCHARGE AND NO INJURIES TO REPORT. THE CAUSE OF THE INCIDENT IS UNKNOWN. Body of Water: DOCK WEILER Water Supply Contaminated: UNKNOWN Name: MINNIE MARU Number: 8243HD Aground: YES Length: 32 Type: PLEASURE CRAFT REMEDIAL ACTIONS: NONE",
+      "address": "Trolleyway South & Surf Street Playa del Rey"
+    },
+    {
+      "id": 10,
+      "title": "PETROLEUM incident near Manhattan Beach",
+      "lat": "33.89526",
+      "long": "-118.37921",
+      "Agency": "Chevron",
+      "descrip": "Per reporting party: A customer was pumping gas when the nozzle came off the pump. This caused a release of less than a gallon of diesel out to the asphalt. No waterways were impacted.",
+      "address": "2301 North Aviation Boulevard"
+    },
+    {
+      "id": 11,
+      "title": "CHEMICAL incident near Hawthorne",
+      "lat": "33.91753",
+      "long": "-118.31929",
+      "Agency": "Los Angeles County Fire Department",
+      "descrip": "Silicone oil was added to a 30-gallon container of powdered aluminum as a neutralizer in preparation for disposal. For unknown reasons, the mixture began to off-gas. The Los Angeles County Fire Department was contacted and is currently on-site, while the Health Hazardous Materials Division is en route to assist. As a precaution, the outdoor incident area has been isolated, and the facility was evacuated of its approximately 15 personnel. No staff members were exposed to the gas, and no medical care was needed. Management has remained on-site, while the other employees have been allowed to leave for the day. Fire personnel are likely to permit the off-gassing to continue while monitoring the chemical process for safety. If this course of action is taken, there is no anticipated danger to the public.",
+      "address": "12624 Daphne Avenue"
+    },
+    {
+      "id": 12,
+      "title": "PETROLEUM incident near Playa Del Rey",
+      "lat": "33.95505",
+      "long": "-118.44864",
+      "Agency": "NATIONAL RESPONSE CENTER",
+      "descrip": "Per the NRC report, THE CALLER WAS NOTIFIED ABOUT A VESSEL FOUND ON THE BEACH. THERE IS NO DISCHARGE AND NO INJURIES TO REPORT. THE CAUSE OF THE INCIDENT IS UNKNOWN. Body of Water: DOCK WEILER Water Supply Contaminated: UNKNOWN Name: MINNIE MARU Number: 8243HD Aground: YES Length: 32 Type: PLEASURE CRAFT REMEDIAL ACTIONS: NONE",
+      "address": "Trolleyway South & Surf Street Playa del Rey"
+    },
+    {
+      "id": 13,
+      "title": "VAPOR incident near San Bernardino",
+      "lat": "34.09654",
+      "long": "-117.34145",
+      "Agency": "National Response Center (NRC)",
+      "descrip": "Per the NRC report, the caller reports that while repairing a residential a/c unit, a lead employee released about 10 pounds of refrigerant gas directly into the air. The caller states the employee never uses the recovery tank and even encourages residents to release the gas into the air before the company goes into their homes for repairs. The environmental impact is unknown. It is unknown if the release is secured. No remedial actions taken.",
+      "address": "2358 Walnut Street"
+    },
+    {
+      "id": 14,
+      "title": "CHEMICAL, VAPOR incident near Bloomington",
+      "lat": "34.06589",
+      "long": "-117.39123",
+      "Agency": "UPRR",
+      "descrip": "Per reporting party: There was a gas release from the sample line, with a loose plug and valve in the closed position. This was at the railyard from rail car (CBTX787961) that was parked at the railyard.",
+      "address": "19100 Slover Avenue"
+    },
+    {
+      "id": 15,
+      "title": "CHEMICAL incident near Bloomington",
+      "lat": "34.06699",
+      "long": "-117.35299",
+      "Agency": "Union Pacific Railroad (UPRR)",
+      "descrip": "A loose vapor valve on a tank railcar led to an argon release into the atmosphere. At the time, the railcar was part of a stationary group of cars in the West Colton Railyard. A UPRR Hazardous Materials Manager and an environmental specialist were present at the scene. The release was unrecoverable. Technicians fixed the valve, stopping the leak, and the group of cars was put back into operation. There was no impact on railyard operations due to this incident.",
+      "address": "West Colton Colton"
+    },
+    {
+      "id": 16,
+      "title": "SEWAGE incident near Colton",
+      "lat": "34.02194",
+      "long": "-117.34072",
+      "Agency": "City of Cloton Water / Wastewater",
+      "descrip": "Per the reporting party, the lift station experienced a brief power loss, resulting in the release of approximately 20 gallons of sewage onto the concrete curb and gutter, which subsequently flowed into an open channel leading to the Santa Ana River. The responsible party reports that approximately 10 gallons of the release have been recovered. The release has been stopped and contained.",
+      "address": "2851 South La Cadena Drive"
+    },
+    {
+      "id": 17,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.71559",
+      "long": "-117.22387",
+      "Agency": "Harbor Police San Diego",
+      "descrip": "Per the reporting party, the Harbor Police of San Diego discovered an abandoned vessel that was sinking. The Harbor Patrol's vessel unit was dewatering the vessel, and an unknown sheen was observed in the water. The sheen was caused by the partial sinking of the vessel, and it is a combination of oil and diesel fuel. There is a tow boat recovering the vessel. The sinking vessel's vessel identification number is: Z3922KF000, and it's license number is: 3922 KFN. Tow Boat USA is performing the clean-up including vessel recovery. It is a 32 foot vessel, and it's body class is C. Currently the spill is not stopped or contained.",
+      "address": "2210 Shelter Island Drive"
+    },
+    {
+      "id": 18,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.68441",
+      "long": "-117.23946",
+      "Agency": "NRC",
+      "descrip": "Per NRC report: Unknown sheen sighting. Exact source of the sheen is unknown at this time. RemedialAction: Booms were applied.",
+      "address": "140 Sylvester Road"
+    },
+    {
+      "id": 19,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.68351",
+      "long": "-117.2334",
+      "Agency": "NRC",
+      "descrip": "Per NRC: DESCRIPTION OF INCIDENT CALLER STATES THAT WHILE SAILING, THEY ENCOUNTERED A STRONG SMELL OF DIESEL AND DISCOVERED A RAINBOW SHEEN ON THE SURFACE OF THE WATER SAN DIEGO BAY. SOURCE IS UNKNOWN CALLER STATED THAT A US ARMY SHIP MARKED WITH NUMBERS '158' IN THE VICINITY",
+      "address": "unknown"
+    },
+    {
+      "id": 20,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.73787",
+      "long": "-117.16246",
+      "Agency": "Environmental Management Inc",
+      "descrip": "per reporting party, Due to a mechanical failure, a hydraulic line on a fork-lift became loose, resulting in the release of approximately 5-10 gallons of fluid onto the asphalt. The release has been stopped and contained, with no impact to waterways. A cleanup team is currently on-site conducting clean up procedures.",
+      "address": "3104 Third Avenue"
+    },
+    {
+      "id": 21,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.7644",
+      "long": "-117.217",
+      "Agency": "NRC",
+      "descrip": "Per NRC Report, Caller reported that an abandoned vessel was discharging diesel from one of the inboard/outboard engines for unknown reasons in the pacific passage. ---SHEEN INFORMATION---Sheen Color: RAINBOW. Sheen Size Length: 40 FEET. Sheen Size Width: 20 FEET. ---WATER INFORMATION---Body of Water: PACIFIC PASSAGE. Tributary of: SAN DIEGO BAY ---VESSEL INFORMATION---Name: DELTA JAY. Length: 24. Type: PLEASURE CRAFT. ---REMEDIAL ACTIONS---MATERIAL NATURALLY DISSIPATED, VESSEL HAS BEEN ANCHORED AND THEY ARE WORKING ON DE-FUELING IT.",
+      "address": "unknown"
+    },
+    {
+      "id": 22,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.77781",
+      "long": "-117.22646",
+      "Agency": "NRC",
+      "descrip": "Per NRC Unknown sheen sighting. Size of sheen is 200 yards by 100 yards. Exact source of the sheen is unknown at this time. Investigation is underway.",
+      "address": "Mission Bay San Diego"
+    },
+    {
+      "id": 23,
+      "title": "OTHER SUBSTANCE incident near San Diego",
+      "lat": "32.7953",
+      "long": "-117.19323",
+      "Agency": "NRC",
+      "descrip": "PER NRC REPORT: CALLER REPORTED THAT THE SRP DISCHARGED AN UNKNOWN MOUNT OF USED COOKING OIL OUT OF THE BACK OF THEIR RESTURANT. CALLER STATED THIS IS THE FIRST TIME THEY HAVE OBSERVED THE DISCHARGE, HOWEVER IT LOOKS AS THOUGH THIS IS A REGULAR OCCURENCE.",
+      "address": "3055 Clairemont Drive"
+    },
+    {
+      "id": 24,
+      "title": "OTHER SUBSTANCE incident near San Diego",
+      "lat": "32.79604",
+      "long": "-117.2246",
+      "Agency": "SD County Dept EH and Quality",
+      "descrip": "RP States: During firefighting activity due to a structure fire at a maintenance building on the dock, paint and gasilone kept in the building were released into the bay, along with firefighting water. The dock was evacuated, evacuation is not yet lifted. USCG is en route. Per NRC: CALLER STATED FIRE DEPARTMENT RESPONDED TO A STRUCTURAL FIRE OF A PRIVATE RESIDENCE. THE CAUSE OF THE FIRE WAS UNKNOWN. WHILE PUTTING OUT THE FIRE RUN OFF FROM THE FIRE RELEASED SEVERAL MATERIALS INTO MISSION BAY. UNKNOWN IF THERE WAS ANY INJURIES INVOLVED WITH THIS INCIDENT. REMEDIAL ACTIONS: NO COAST GUARD ACTIONS AT THIS TIME.",
+      "address": "Campland on the Bay 2211"
+    },
+    {
+      "id": 25,
+      "title": "RAILROAD incident near San Diego",
+      "lat": "32.8039",
+      "long": "-117.21345",
+      "Agency": "National Response Center (NRC)",
+      "descrip": "Per the NRC report, the caller stated that a southbound Amtrak passenger train struck and killed a bicyclist at a grade crossing controlled by lights, gates, and bells. The incident occurred at DOT crossing number 026838 H. The train number was A770 CDTX 2112. A passenger train delay is expected, and a bus bridge will be used. There was no derailment or Hazmat release. There is an investigation underway.",
+      "address": "Interstate 5 San Diego"
+    },
+    {
+      "id": 26,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.81487",
+      "long": "-117.23321",
+      "Agency": "San Diego Gas and Electric",
+      "descrip": "Per the reporting party: A car crashed into a pad mounted transformer releasing an unknown amount of mineral oil onto a curb and into a storm drain. This release has been stopped and contained and a contractor will perform the clean up.",
+      "address": "5221 Soledad Mountain Road"
+    },
+    {
+      "id": 27,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.81687",
+      "long": "-117.17397",
+      "Agency": "Private Citizen",
+      "descrip": "Per Reporting Party he was driving his vehicle on north bound Interstate 805 when he ran over a unknown type metal object that caused a rupture to his vehicle gas tank causing a release. He pulled off freeway and contacted the fire department that responded to mitigate and clean up spill by using dirt; a tow company siphoned remaining gasoline out of vehicle. Per caller, San Diego City Fire department on scene said a minimal amount did make it into the storm; unknown where the storm drain leads.",
+      "address": "6343 Mount Aguilar Drive"
+    },
+    {
+      "id": 28,
+      "title": "CHEMICAL incident near San Diego",
+      "lat": "32.88595",
+      "long": "-117.15359",
+      "Agency": "NRC",
+      "descrip": "Per NRC Report: Caller reported a company dumping various solvents and acids onto the ground at their facility. Remedial Actions: None Description of Tank: STEEL Tank Above/Below Ground: ABOVE Transportable Container: YES Capacity of Tank: 55 GALLON(S)",
+      "address": "7740 Kenamar Court"
+    },
+    {
+      "id": 29,
+      "title": "PETROLEUM incident near San Diego",
+      "lat": "32.93764",
+      "long": "-117.11285",
+      "Agency": "Chevron Stations",
+      "descrip": "RP States: When the customer was filling up at pump 9 the nozzle failed to stop causing gasoline to spill onto the concrete, no waterways were impacted. Chevron Station employees have completed spill clean up using absorbents and properly disposed of the absorbents. Pump 9 has been taken out of service.",
+      "address": "9936 Mercy Road"
+    },
+    {
+      "id": 30,
+      "title": "PETROLEUM incident near Rancho Santa Fe",
+      "lat": "33.00797",
+      "long": "-117.19838",
+      "Agency": "Green Clean Presuure Washing",
+      "descrip": "Per reporting party, due to a mechanical failure from garbage truck there was a release of 5 gallons of hydraulic oil out to the asphalt. No waterways were impacted.",
+      "address": "16235 Via De Santa Fe"
+    },
+    {
+      "id": 31,
+      "title": "VAPOR incident near Encinitas",
+      "lat": "33.0471",
+      "long": "-117.25581",
+      "Agency": "Trader Joe's",
+      "descrip": "Per reporting party, a freezer food case leaked an unknown amount of CO2 during maintenance. Approximately 30-35 people were evacuated from the store. The evacuation order was lifted at approximately 1630. The CO2 release is unrecoverable, and are currently awaiting a technician to provide an estimate of the amount released.",
+      "address": "115 N El Camino Real #A"
+    },
+    {
+      "id": 32,
+      "title": "SEWAGE incident near Encinitas",
+      "lat": "33.05532",
+      "long": "-117.21915",
+      "Agency": "City of Encinitas",
+      "descrip": "Reporting party states that on 01/16/2023 the sewer overflowed due to over capacity because of the storm event. The sewage spilled into the storm drain that leads into Escondido Creek. RP states that the overflow slowed down when the rain stopped. The overflow started at 0845 hours and stopped at 1000 hours.",
+      "address": "3023 Brookside Lane"
+    },
+    {
+      "id": 33,
+      "title": "CHEMICAL incident near Rancho Santa Fe",
+      "lat": "33.02587",
+      "long": "-117.21838",
+      "Agency": "California Highway Patrol - Oceanside",
+      "descrip": "Reporting party states pool supplies fell out of a truck causing the release of 2 gallons of muriatic acid onto the asphalt. The release is stopped and contained. No waterways impacted. County Hazmat will be conducting the clean up.",
+      "address": "5338 San Elijo Avenue"
+    },
+    {
+      "id": 34,
+      "title": "SEWAGE incident near Escondido",
+      "lat": "33.07792",
+      "long": "-117.11655",
+      "Agency": "City of San Diego Waste Water",
+      "descrip": "A force main rupture caused the release, material flowed from underground then went into a storm advance, the pipe leads to a dry waterway where it soaked into the soil, RP is handling the containment and clean up.",
+      "address": "20278 Lake Drive"
+    },
+    {
+      "id": 35,
+      "title": "CHEMICAL, VAPOR incident near Escondido",
+      "lat": "33.12439",
+      "long": "-117.12787",
+      "Agency": "Nikkiso Integrated Cryogenic Solutions",
+      "descrip": "Reporting party states a technician cracked a fitting causing the release of less than one ounce of methyl mercaptan into the atmosphere as a vapor. There are 20 people evacuated due to the incident and there are no reported injuries. Reporting party states the City of San Diego Hazmat, County of San Diego Hazmat, and City of Escondido Fire Department are on the scene assessing the situation. County of San Diego Hazmat confirmed the release has stopped. RP will provide updates.",
+      "address": "2835 Progress Place"
+    },
+    {
+      "id": 36,
+      "title": "PETROLEUM incident near San Marcos",
+      "lat": "33.1344",
+      "long": "-117.13112",
+      "Agency": "Private Citizen",
+      "descrip": "per caller: When repairs are done at mechanic shop the oil spills, hydraulic fluids and coolant are not cleaned up properly and spills into sewage system. Continuously been going on and leaking into storm drain.",
+      "address": "1312 East Barham Drive"
+    },
+    {
+      "id": 37,
+      "title": "PETROLEUM incident near Escondido",
+      "lat": "33.13971",
+      "long": "-117.08949",
+      "Agency": "San Diego County Incident Response",
+      "descrip": "Per reporting party, a semi truck caught on fire which cracked the engine resulting in 10 gallons of engine oil to release into soil. Release made impacts into a dry storm drain. Release has been stopped and contained. CalTrans will be conducting clean up.",
+      "address": "15 West El Norte Parkway"
+    },
+    {
+      "id": 38,
+      "title": "SEWAGE incident near Escondido",
+      "lat": " 33.1364",
+      "long": "-117.06042",
+      "Agency": "City of Escondido",
+      "descrip": "Per Caller City sewage main pipe (8 Inch Clay Pipe) had a blockage resulting in the spill of sewage into the storm drain. They were able to contain 440 gallons from the 3600 gallons that were spilled. No evacuations. Currently at the scene conducting clean up and investigation.",
+      "address": "1600 Riva Lane"
+    },
+    {
+      "id": 39,
+      "title": "SEWAGE incident near Vista",
+      "lat": "33.18322",
+      "long": "-117.20107",
+      "Agency": "City of Vista",
+      "descrip": "RP stated, A contractor was digging to repair a bridge and hit an eight (8) inch main line. Due to this, sewage water is currently flowing into the Buena Creek and continuous updates will be provided.",
+      "address": "Lone Oak Road & Buena Creek Road San Diego County"
+    },
+    {
+      "id": 40,
+      "title": "SEWAGE incident near Vista",
+      "lat": "33.24105",
+      "long": "-117.22804",
+      "Agency": "NRC",
+      "descrip": "THE CALLER STATED THAT AN INDIVIDUAL IS DUMPING RAW SEWAGE INTO AN UNKNOWN CREEK AT THE LOCATION PROVIDED. THE AMOUNT OF RAW SEWAGE THAT IS BEING RELEASED IS UNKNOWN TO THE CALLER. THE CALLER STATED THAT NO ACTION HAS BEEN TAKEN TO ADDRESS THIS INCIDENT.",
+      "address": "1007 Mason Road"
+    },
+    {
+      "id": 41,
+      "lat": "34.395",
+      "long": "-119.930",
+      "descrip": "Length 28 km Area 27 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240612T140049_20240612T140114_054291_069AA7_FFDC"
+    },
+    {
+      "id": 42,
+      "lat": "37.691",
+      "long": "-123.803",
+      "descrip": "Length 25 km Area 23 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240607T135319_20240607T135344_054218_069828_6D52"
+    },
+    {
+      "id": 43,
+      "lat": "41.488",
+      "long": "-124.644",
+      "descrip": "Length 39 km Area 28 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240603T142334_20240603T142359_054160_06961D_BF2E"
+    },
+    {
+      "id": 44,
+      "lat": "35.712",
+      "long": "-121.913",
+      "descrip": "Length 14 km Area 15 km2",
+      "address": "S1A_IW_GRDH_1SDV_20241003T140859_20241003T140924_055939_06D6E3_C58A"
+    },
+    {
+      "id": 45,
+      "lat": "22.749",
+      "long": "-109.314",
+      "descrip": "Length 33 km Area 9 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240801T134455_20240801T134520_055020_06B3F8_8F59"
+    },
+    {
+      "id": 46,
+      "lat": "32.291",
+      "long": "-117.154",
+      "descrip": "Length 61 km. Area 16 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240922T131432_20240922T131457_055778_06D07E_DE62"
+    },
+    {
+      "id": 47,
+      "lat": "22.824",
+      "long": "-109.834",
+      "descrip": "Length 6 km. Area 6 km2",
+      "address": "S1A_IW_GRDH_1SDV_20241109T131432_20241109T131457_056478_06EC33_FDE9"
+    },
+    {
+      "id": 48,
+      "lat": "24.254",
+      "long": "-111.625",
+      "descrip": "Length 33 km Area 9 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240822T132240_20240822T132305_055326_06BF0F_2154"
+    },
+    {
+      "id": 49,
+      "lat": "24.457",
+      "long": "-110.596",
+      "descrip": "Length 14 km Area 41 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240705T132216_20240705T132241_054626_06A656_F34A"
+    },
+    {
+      "id": 50,
+      "lat": "24.541",
+      "long": "-110.297",
+      "descrip": "Length 7 km Area 17 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240822T132240_20240822T132305_055326_06BF0F_2154"
+    },
+    {
+      "id": 51,
+      "lat": "24.586",
+      "long": "-112.380",
+      "descrip": "Length 20 km Area 24 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240803T133042_20240803T133107_055049_06B4F0_425D"
+    },
+    {
+      "id": 52,
+      "lat": "25.639",
+      "long": "-110.489",
+      "descrip": "Length 41 km Area 49 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240927T132216_20240927T132241_055851_06D36F_42F0"
+    },
+    {
+      "id": 53,
+      "lat": "25.916",
+      "long": "-110.755",
+      "descrip": "Length 31 km Area 11 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240927T132216_20240927T132241_055851_06D36F_42F0"
+    },
+    {
+      "id": 54,
+      "lat": "28.369",
+      "long": "-112.33089",
+      "descrip": "Length 29 km Area 35 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240710T132927_20240710T132952_054699_06A8D7_5F54"
+    },
+    {
+      "id": 55,
+      "lat": "27.483",
+      "long": "-112.211",
+      "descrip": " Length 12 km Area 10 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240523T132954_20240523T133019_053999_069091_0398"
+    },
+    {
+      "id": 56,
+      "lat": "30.099",
+      "long": "-114.138",
+      "descrip": "Length 10 kmA rea 7 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240528T133713_20240528T133738_054072_06931E_5815"
+    },
+    {
+      "id": 57,
+      "lat": "31.254",
+      "long": "-113.545",
+      "descrip": "Length 15 km Area 6 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240621T013332_20240621T013405_054415_069EF0_C044"
+    }
+  ],
+  "NewYork": [
+    {
+      "id": 1,
+      "title": "AUTO REPAIR AT RESIDENCE",
+      "lat": "41.46499",
+      "long": "-74.0325",
+      "descrip": "Deliberate,Private Dwelling,auto waste fluids,Surface Water",
+      "address": "315 BLOOMING GROVE TURNPIKE"
+    },
+    {
+      "id": 2,
+      "title": "COMMERCIAL",
+      "lat": " 40.6497",
+      "long": "-74.02445",
+      "descrip": "Equipment Failure,Commercial/Industrial,#2 fuel oil,Soil",
+      "address": "5600 1ST AVE"
+    },
+    {
+      "id": 3,
+      "title": "TRANSFORMER",
+      "lat": " 41.32506",
+      "long": "-74.3606",
+      "descrip": "Transformer,transformer oil,5 Gal,Soil",
+      "address": "108 COUNTRY CLUB DR"
+    },
+    {
+      "id": 4,
+      "title": "CHPE - CONSTRUCTION SITE",
+      "lat": "41.20956",
+      "long": "-73.98515",
+      "descrip": "Cause: Equipment Failure. Source: Institutional Educational Gov. Materials: Bentonite. Amount: 25 Gal. Resource Affected: Unknown.",
+      "address": "6A ROUTE 9W"
+    },
+    {
+      "id": 5,
+      "title": "ROADWAY",
+      "lat": "41.21485",
+      "long": "-74.18223",
+      "descrip": "Cause Equipment Failur Source Passenger Vehicle Waterbody Materials gasoline Amount UNKNOWNE source Affected Sewer",
+      "address": "MM 36.3 I87 NB"
+    },
+    {
+      "id": 6,
+      "title": "RESIDENTIAL DELIVERY",
+      "lat": "41.3205",
+      "long": "-74.30479",
+      "descrip": "Cause Equipment FailureSurce Private Dwelling Waterbody Materials #2 fuel oilAmount: 10 Gal.Resource Affected: Unknown",
+      "address": "231 PINE HILL RD"
+    },
+    {
+      "id": 7,
+      "title": "POLEMOUNT TRANSFORMER",
+      "lat": "41.4107",
+      "long": "-74.63893",
+      "descrip": "Cause Equipment Failure Source Transformer Waterbody Materials transformer oil Amount 1 Gal.Resource Affected Soil",
+      "address": ""
+    },
+    {
+      "id": 8,
+      "title": "RESIDENTIAL",
+      "lat": "41.42067",
+      "long": "-74.48013",
+      "descrip": "Cause Equipment Failure Source Private Dwelling Waterbody Materials #2 fuel oil UNKNOWNE source Affected Unknown",
+      "address": "24 ERIC DR"
+    },
+    {
+      "id": 9,
+      "title": "RESIDENTIAL",
+      "lat": "41.44975",
+      "long": "-74.56239",
+      "descrip": "Cause Equipment Failure Source Private Dwelling Waterbody Materials #2 fuel oil Amount UNKNOWNR esource Affected Soil , Groundwater",
+      "address": "2034 MOUNTAIN RD"
+    },
+    {
+      "id": 10,
+      "title": "TRANSFORMER - POLE # 42497/52597",
+      "lat": "41.44388",
+      "long": "-74.60727",
+      "descrip": "Cause Equipment Failure Source Transformer Waterbody Materials transformer oil Amount 25 Gal Resource Affected Soil",
+      "address": "85 GUYMARD TURNPIKE"
+    },
+    {
+      "id": 11,
+      "title": "K.W. CONTROL BUILDING - SUMP 2A",
+      "lat": " 41.40526",
+      "long": "-74.46915",
+      "descrip": "Cause Equipment Failure,Source Gasoline Station or other PBS Facility,Waterbody Materials diesel",
+      "address": "334 COUNTY ROUTE 49"
+    },
+    {
+      "id": 12,
+      "title": "K.W. CONTROL BUILDING - SUMP 2B",
+      "lat": "41.40526",
+      "long": "-74.46915",
+      "descrip": "Cause Equipment Failure,Source Gasoline Station or other PBS Facility,Waterbody Materials #2 fuel oil",
+      "address": "334 COUNTY ROUTE 49"
+    },
+    {
+      "id": 13,
+      "title": "ODOR COMPLAINT",
+      "lat": "41.34048",
+      "long": "-74.48134",
+      "descrip": "Cause Unknown,Source Unknown,Waterbody Materials unknown material,Amount UNKNOWN,Resource Affected Unknown",
+      "address": "397 COUNTY ROAD 12"
+    },
+    {
+      "id": 14,
+      "title": "CENTRAL HUDSON VEHICLE",
+      "lat": "41.3392",
+      "long": "-74.63694",
+      "descrip": "Cause Equipment Failure,Source Commercial Vehicle,Waterbody Materials hydraulic oil,Amount 5 Gal.",
+      "address": "103 MOUNTAIN RD"
+    },
+    {
+      "id": 15,
+      "title": "KELLERMAN RESIDENCE",
+      "lat": "41.42429",
+      "long": "-74.72046",
+      "descrip": "Cause Other,Source Private Dwelling,Waterbody Materials #2 fuel oil,Resource Affected Soil",
+      "address": "720 state rt 42"
+    },
+    {
+      "id": 16,
+      "title": "TRANSFORMER - POLE # 48657/52625",
+      "lat": "41.44484",
+      "long": "-74.38096",
+      "descrip": "Cause Storm,Source Transformer,Waterbody Materials non PCB oil,Amount 20 Gal,Resource Affected Soil",
+      "address": "536 East main St"
+    },
+    {
+      "id": 17,
+      "title": "INTEGRITY TEST FAILURE - DISPENSER 3/4",
+      "lat": "41.44275",
+      "long": "-74.37636",
+      "descrip": "Cause Tank Test Failure,Source Gasoline Station or other PBS Facility,Waterbody Materials gasoline/ethanol",
+      "address": "601 EAST MAIN ST"
+    },
+    {
+      "id": 18,
+      "title": "GARNET HEALTH MEDICAL",
+      "lat": "41.44192",
+      "long": "-74.36809",
+      "descrip": "Source Commercial Vehicle,Waterbody Material diesel,Amount 15 Gal",
+      "address": "707 E MAIN ST"
+    },
+    {
+      "id": 19,
+      "title": "TRACTOR FIRE",
+      "lat": "41.44778",
+      "long": "-74.35921",
+      "descrip": "Source Commercial Vehicle,Waterbody Materials sulfuric acid,Resource Affected Sewer",
+      "address": "90 CRYSTAL RUN ROAD"
+    },
+    {
+      "id": 20,
+      "title": "MIELE UST",
+      "lat": "41.44216",
+      "long": "-74.34775",
+      "descrip": "Cause Equipment Failure,Source Private Dwelling,Waterbody Materials #2 fuel oil,Resource Affected Soil",
+      "address": "6 TERRA LANE"
+    },
+    {
+      "id": 21,
+      "title": "ANTIOCH BAPTIST CHURCH",
+      "lat": "41.23433",
+      "long": "-73.7002",
+      "descrip": "Cause Equipment Failure Source Commercial Industrial Waterbody Materials #2 fuel oil Amount UNKNOWN Resource Affected",
+      "address": "3 CHURCH ST"
+    },
+    {
+      "id": 22,
+      "title": "TRANSFORMER",
+      "lat": "41.23789",
+      "long": "-73.70723",
+      "descrip": "Cause Storm Source Transformer Waterbody Materials transformer oil Amount UNKNOWN Resource Affected Soil",
+      "address": "165 HAINES RD"
+    },
+    {
+      "id": 23,
+      "title": "SINGLE VEHICLE MVA",
+      "lat": "41.2305",
+      "long": "-73.70669",
+      "descrip": "Cause Traffic Accident Source Passenger Vehicl eWaterbody STORM DRAINS Materials gasoline Amount UNKNOWN Resource Affected Soil Grou",
+      "address": "WOODLAND ROAD AND BEECHWOOD ROAD"
+    },
+    {
+      "id": 24,
+      "title": "RESIDENTIAL",
+      "lat": "41.26984",
+      "long": "-73.7674",
+      "descrip": "Cause Equipment FailureSource Private Dwelling Waterbody Materials #2 fuel oilAmount UNKNOWN Resource Affected Soil",
+      "address": "9 MOSEMAN RD"
+    },
+    {
+      "id": 25,
+      "title": "RESIDENCE",
+      "lat": "41.27401",
+      "long": "-73.75037",
+      "descrip": "Cause Equipment Failure ource Private Dwelling Waterbody Materials #2 fuel oil Amount UNKNOWN Resource Affected Soil",
+      "address": ""
+    },
+    {
+      "id": 26,
+      "title": "TANK PULL",
+      "lat": "41.29443",
+      "long": "-73.79271",
+      "descrip": "Cause Equipment FailureSource Private Dwelling Waterbody Materials #2 fuel oil Amount UNKNOWN Resource Affected Soil",
+      "address": "460 WAVERLY RD"
+    },
+    {
+      "id": 27,
+      "title": "MORALES - AST",
+      "lat": "41.29907",
+      "long": "-73.8037",
+      "descrip": "Cause Equipment FailureSource Private Dwelling Waterbody Material #2 fuel oil Amount 15 Gal.Resource Affected Soil",
+      "address": "2716 NARATH COURT"
+    },
+    {
+      "id": 28,
+      "lat": "42.446",
+      "long": "-70.595",
+      "descrip": "Length: 5 km. Area: 9km2",
+      "address": "S1A_IW_GRDH_1SDV_20240829T223517_20240829T223542_055434_06C306_5A2F"
+    },
+    {
+      "id": 29,
+      "lat": "42.283",
+      "long": "-70.747",
+      "descrip": "Length: 18 km. Area 10 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240822T224320_20240822T224345_055332_06BF45_2705"
+    },
+    {
+      "id": 30,
+      "lat": "42.826",
+      "long": "-69.516",
+      "descrip": "Length: 101km. Area: 35 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240910T223517_20240910T223542_055609_06C9DE_BA2D"
+    },
+    {
+      "id": 31,
+      "lat": "41.211",
+      "long": "-71.777",
+      "descrip": "Length: 20 km. Area: 14 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240829T223517_20240829T223542_055434_06C306_5A2F"
+    },
+    {
+      "id": 32,
+      "lat": "41.102",
+      "long": "-71.802",
+      "descrip": "Length: 10km. Area: 8 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240829T223517_20240829T223542_055434_06C306_5A2F"
+    },
+    {
+      "id": 33,
+      "lat": "41.193",
+      "long": "-72.512",
+      "descrip": "Length: 15 km. Area: 10 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240829T223517_20240829T223542_055434_06C306_5A2F"
+    },
+    {
+      "id": 34,
+      "lat": "42.283",
+      "long": "-70.747",
+      "descrip": "Length 18 km Area 10 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240822T224320_20240822T224345_055332_06BF45_2705"
+    },
+    {
+      "id": 35,
+      "lat": " 42.446",
+      "long": "-70.595",
+      "descrip": "Length 5 km Area 9 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240829T223517_20240829T223542_055434_06C306_5A2F"
+    },
+    {
+      "id": 36,
+      "lat": "42.826",
+      "long": "-69.516",
+      "descrip": "Length 101 km Area 35 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240910T223517_20240910T223542_055609_06C9DE_BA2D"
+    },
+    {
+      "id": 37,
+      "lat": "43.803",
+      "long": "-69.423",
+      "descrip": "Length 8 km Area 12 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240910T223542_20240910T223607_055609_06C9DE_9E97"
+    },
+    {
+      "id": 38,
+      "lat": "44.284",
+      "long": " -67.822",
+      "descrip": " Length 29 km Area 14 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240707T222749_20240707T222814_054661_06A788_2B54"
+    },
+    {
+      "id": 39,
+      "lat": "41.403",
+      "long": "-69.784",
+      "descrip": "Length 27 km Area 14 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240724T223516_20240724T223541_054909_06B025_BDAB"
+    },
+    {
+      "id": 40,
+      "lat": "41.029",
+      "long": "-69.069",
+      "descrip": "Length 15 km Area 14 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240929T222700_20240929T222725_055886_06D4CE_8259"
+    },
+    {
+      "id": 41,
+      "lat": "40.301",
+      "long": " -68.458",
+      "descrip": "Length 39 km Area 23 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240817T223452_20240817T223517_055259_06BC8D_1E79"
+    },
+    {
+      "id": 42,
+      "lat": "39.073",
+      "long": "-74.503",
+      "descrip": "Length 49 km Area 46 km2",
+      "address": "S1A_IW_GRDH_1SDV_20241107T225106_20241107T225131_056455_06EB4A_6FFD"
+    },
+    {
+      "id": 43,
+      "lat": "38.207",
+      "long": "-74.992",
+      "descrip": "Length 15 km Area 13 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240609T225907_20240609T225932_054253_06995C_F197"
+    },
+    {
+      "id": 44,
+      "lat": "37.326",
+      "long": "-74.868",
+      "descrip": "Length 20 kmArea 8 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240609T225842_20240609T225907_054253_06995C_9D4F"
+    },
+    {
+      "id": 45,
+      "lat": "37.366",
+      "long": "-73.156",
+      "descrip": "Length 22 km Area 7 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240827T225015_20240827T225040_055405_06C1FE_8E3A"
+    },
+    {
+      "id": 46,
+      "lat": "39.073",
+      "long": " -74.503",
+      "descrip": "Length 49 km Area 46 km2",
+      "address": "S1A_IW_GRDH_1SDV_20241107T225106_20241107T225131_056455_06EB4A_6FFD"
+    },
+    {
+      "id": 47,
+      "lat": "38.024",
+      "long": "-74.442",
+      "descrip": "Length 26 km Area 19 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240616T225042_20240616T225107_054355_069CD7_436C"
+    },
+    {
+      "id": 48,
+      "lat": "37.848",
+      "long": "-76.147",
+      "descrip": "Length 7 km Area 6 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240528T225843_20240528T225908_054078_069350_EE9B"
+    },
+    {
+      "id": 49,
+      "lat": "37.043",
+      "long": "-74.681",
+      "descrip": "Length 19 km Area 12 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240621T225842_20240621T225907_054428_069F67_151C"
+    },
+    {
+      "id": 50,
+      "lat": "35.328",
+      "long": "-75.598",
+      "descrip": "Length 20 km Area 23 km2",
+      "address": "S1A_IW_GRDH_1SDV_20240614T230619_20240614T230644_054326_069BDD_985D"
+    }
+  ]
+}

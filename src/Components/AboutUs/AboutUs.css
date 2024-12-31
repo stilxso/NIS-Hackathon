@@ -1,0 +1,45 @@
+.card-title{
+    color: white;
+
+}
+
+.first-block-container{
+    width: 50%;
+}
+
+.second-block-container{
+    width: 50%;
+}
+
+.cards{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.card{
+    width: 620px;
+    color: #2f4454;
+    height: 24vh;
+    border-radius: 16px;
+    background-color: #88ADC9;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-top: 10px;
+    font-size: 17.5px;
+}
+
+.how-work{
+    height: 93.5%;
+    width: 100%;
+    font-size: 20px;
+}
+
+.card-title{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.future{
+    margin-top: 20px;
+}

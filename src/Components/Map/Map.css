@@ -1,0 +1,51 @@
+.mapCompContainer{
+    width: 100%;
+}
+
+.leaflet-container{
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 24px;
+}
+
+.mapCompContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    padding: 0;
+}
+
+.leaflet-container {
+    width: 90%;
+    max-width: 1000px;
+    height: 350px;
+}
+
+.chat-component {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width: 90%;
+    max-width: 600px;
+}
+
+.chat-component h3 {
+    margin: 0 0 10px;
+}
+
+.copilot-container{
+    margin-top: 100px;
+}
+
+.title-map{
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+h1{
+    color: white;
+}
