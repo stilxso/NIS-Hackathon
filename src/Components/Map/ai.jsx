@@ -37,7 +37,7 @@ export default function Ai({ data }) {
     try {
       setLoading(true);
       const emailData = {
-        to: 'kurmangalidaniyar2011@gmail.com',
+        to: '',
         subject: 'AI Generated Response',
         text: content,
       };
@@ -63,7 +63,7 @@ export default function Ai({ data }) {
     <div className="copilot-container">
       <h1>Accident Assistance</h1>
       <CopilotProvider
-        appId="67fc510a-b638-4121-a4b3-66142e5070e0"
+        appId="" //app id
         userId="u"
         companyId="c"
         context={{
