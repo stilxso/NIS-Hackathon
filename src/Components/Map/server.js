@@ -11,8 +11,7 @@ app.use(express.json());
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'acsv1rm.hondo@gmail.com',
-    pass: 'adlfhitlr1112'
+"deleted"
   }
 });
 
@@ -20,7 +19,7 @@ app.post('/send-email', (req, res) => {
   const { to, subject, text } = req.body;
 
   const mailOptions = {
-    from: 'acsv1rm.hondo@gmail.com',
+    from: "deleted"
     to,
     subject,
     text
